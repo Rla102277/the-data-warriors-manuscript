@@ -1,0 +1,37 @@
+number,book,title,path,dec2025_candidates,status
+1,01-earth,"The Way of the Data Warrior",chapters/01-earth/01-the-way-of-the-data-warrior,"1,17",unreconciled
+2,01-earth,"Know Your Terrain",chapters/01-earth/02-know-your-terrain,"1,2",unreconciled
+3,01-earth,"Establish the Foundation",chapters/01-earth/03-establish-the-foundation,"3,4",unreconciled
+4,01-earth,"Truth, Trust, and Data",chapters/01-earth/04-truth-trust-and-data,"4",unreconciled
+5,01-earth,"Strategy Before Technology",chapters/01-earth/05-strategy-before-technology,"1,7",unreconciled
+6,02-water,"The Formless Practitioner",chapters/02-water/06-the-formless-practitioner,"5,8",unreconciled
+7,02-water,"Architectures That Evolve",chapters/02-water/07-architectures-that-evolve,"3,5",unreconciled
+8,02-water,"Flow of Information",chapters/02-water/08-flow-of-information,"3,6",unreconciled
+9,02-water,"Learning and Unlearning",chapters/02-water/09-learning-and-unlearning,"7,8",unreconciled
+10,03-fire,"Entering the Battle",chapters/03-fire/10-entering-the-battle,"9,10",unreconciled
+11,03-fire,"The Battle Map",chapters/03-fire/11-the-battle-map,"9,11",unreconciled
+12,03-fire,"Execution Under Pressure",chapters/03-fire/12-execution-under-pressure,"10,11",unreconciled
+13,03-fire,"Decisions and Tradeoffs",chapters/03-fire/13-decisions-and-tradeoffs,"11,12",unreconciled
+14,03-fire,"Knowing When to Stop",chapters/03-fire/14-knowing-when-to-stop,"12",unreconciled
+15,04-wind,"Know the Other Schools",chapters/04-wind/15-know-the-other-schools,"13",unreconciled
+16,04-wind,"Challenge Assumptions",chapters/04-wind/16-challenge-assumptions,"13,15",unreconciled
+17,04-wind,"The Art of the Adversary",chapters/04-wind/17-the-art-of-the-adversary,"13,14",unreconciled
+18,04-wind,"Organizational Resistance",chapters/04-wind/18-organizational-resistance,"10,15",unreconciled
+19,05-void,"Seeing What Is Not There",chapters/05-void/19-seeing-what-is-not-there,"14,15",unreconciled
+20,05-void,"Judgment Beyond Metrics",chapters/05-void/20-judgment-beyond-metrics,"14,15",unreconciled
+21,05-void,"Intuition and Experience",chapters/05-void/21-intuition-and-experience,"6,16",unreconciled
+22,05-void,"Mastery in the Age of AI",chapters/05-void/22-mastery-in-the-age-of-ai,"16,17",unreconciled
+23,06-people,"Leadership and Service",chapters/06-people/23-leadership-and-service,"9,11",unreconciled
+24,06-people,"The Strategist, Architect, Engineer, Guardian, Examiner, and Sensei",chapters/06-people/24-the-strategist-architect-engineer-guardian-examiner-and-sensei,"",unreconciled
+25,06-people,"Collaboration and Conflict",chapters/06-people/25-collaboration-and-conflict,"10,13",unreconciled
+26,06-people,"Developing Other Warriors",chapters/06-people/26-developing-other-warriors,"16,17",unreconciled
+27,07-tools,"The Sword Is Not the Warrior",chapters/07-tools/27-the-sword-is-not-the-warrior,"7",unreconciled
+28,07-tools,"Engineering Disciplines",chapters/07-tools/28-engineering-disciplines,"3,4",unreconciled
+29,07-tools,"AI Agents and Skills",chapters/07-tools/29-ai-agents-and-skills,"",unreconciled
+30,07-tools,"Governance by Design",chapters/07-tools/30-governance-by-design,"4",unreconciled
+31,07-tools,"Building the Living System",chapters/07-tools/31-building-the-living-system,"",unreconciled
+32,08-practice,"Training Through Challenges",chapters/08-practice/32-training-through-challenges,"1,17",unreconciled
+33,08-practice,"The Living Scroll",chapters/08-practice/33-the-living-scroll,"",unreconciled
+34,08-practice,"From Battle Map to Outcome",chapters/08-practice/34-from-battle-map-to-outcome,"9,12",unreconciled
+35,08-practice,"Reflection and the Chronicle",chapters/08-practice/35-reflection-and-the-chronicle,"8,16",unreconciled
+36,08-practice,"The Never-Ending Way",chapters/08-practice/36-the-never-ending-way,"17",unreconciled
