@@ -1,18 +1,12 @@
-# The Data Warrior's Manuscript
+# The Data Warrior’s Manuscript — rebuildable chapter scaffold
 
-**Private working repository — canonical source of truth.**
+This is a **non-destructive integration package**, designed to merge into the private GitHub repository `Rla102277/the-data-warriors-manuscript`. It includes 36 provisional chapter workspaces, 20 original DOCX attachments with SHA-256 inventory, a preliminary topic crosswalk and a local Markdown assembler.
 
-A book inspired by Miyamoto Musashi's *Book of Five Rings*, developing a practical philosophy of strategy, judgment, leadership, data engineering, and AI.
+**Important:** This package is not a rewritten manuscript and has not been pushed to GitHub. Do not overwrite the existing `archive/chat-recovered/`, `PROJECT_STATE.md`, `MANUSCRIPT_ARCHITECTURE.md`, or other pre-existing repository files.
 
-## Start here
-1. Read `AGENTS.md` for tool-independent collaboration rules.
-2. Read `PROJECT_STATE.md` for the current state and next actions.
-3. Read `DECISIONS.md` before changing established editorial direction.
-4. Read `MANUSCRIPT_ARCHITECTURE.md` for the proposed eight-book structure.
-5. Record material decisions in `DECISIONS.md`, and update `PROJECT_STATE.md` before ending a work session.
-
-## Principle
-Git commits preserve content. These files preserve *why* the content exists. No chat transcript is the canonical record.
-
-## Status
-Architecture proposed; original manuscript drafts have not yet been reconciled chapter by chapter. Do not represent outlines as completed prose.
+## Quick start
+1. Unzip at the repository root; review merge conflicts and commit.
+2. Run `python scripts/build.py --audit` to inspect readiness.
+3. Map source passages and preserve author corrections.
+4. Add approved chapter content in `chapter.md` with `status: approved` front matter.
+5. Run `python scripts/build.py --preview` for a working Markdown assembly; `--publication` requires all chapters.
