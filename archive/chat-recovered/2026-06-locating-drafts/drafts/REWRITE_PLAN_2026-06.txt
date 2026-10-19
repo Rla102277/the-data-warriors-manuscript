@@ -1,0 +1,140 @@
+THE DATA WARRIOR - FULL REWRITE PLAN
+Prepared June 11, 2026
+Source: "The Data Warrior's Manuscript - Final Draft" (37 chapters, 8 parts, ~53,000 words)
+Target: 17 chapters + Preface, 5 Books, ~48,000-52,000 words, 180-200 pages
+
+=====================================================
+THE ONE-SENTENCE DIAGNOSIS
+=====================================================
+The current draft is a competent enterprise data strategy textbook narrated by nobody. The rewrite turns it into a career book narrated by Randy. Same Five Rings skeleton, completely different body.
+
+=====================================================
+CHANGE 1: AUDIENCE AND PREMISE
+=====================================================
+FROM: CDOs and transformation leaders building Level 4 governance maturity.
+TO: Working data analysts and the people who become their leaders. The reader is the person in the room when the VP asks the question the model can't answer.
+
+New subtitle: "Applying Miyamoto Musashi's Strategy to Modern Analytics Careers"
+
+=====================================================
+CHANGE 2: STRUCTURE (37 CHAPTERS BECOME 17)
+=====================================================
+Cut from 8 Books back to Musashi's 5. The invented books (People, Toolkit, Applications) fragment the narrative and read like padding.
+
+PREFACE: The Warrior and the Weight
+Built from the current Preface + Introduction. Dominican Republic origin story (zipline, banana boat, 270 pounds), divorce, Musashi discovery, 24 years in analytics, the weight loss as proof that discipline transfers. Ends with the two demands: demand simplicity, embrace discipline.
+
+PART I: GROUND BOOK (Foundations)
+Ch 1: Know the Ground (from current Ch 2 Strategic Terrain)
+Ch 2: The Stated Problem vs the Real Problem (new chapter, salvages diagnostic material scattered through current Ch 2 and Ch 6)
+Ch 3: Choose the Right Tool (from current Ch 30-31 Toolkit material, compressed hard)
+Ch 4: Build on Rock, Not Sand (from current Ch 3 Governance + Ch 4 Roadmap, merged and cut by 70 percent)
+CUT ENTIRELY: Ch 5 Data Literacy and Culture (folds into Ch 4 as two pages), Ch 6 Analytical Stance (folds into Ch 1)
+
+PART II: WATER BOOK (Adaptability)
+Ch 5: Adapt or Die (from current Ch 7 Adaptive Approaches)
+Ch 6: Flow State (from current Ch 12, the strongest chapter in the draft, keeps most of its ideas)
+Ch 7: The 80 Percent Solution (from current Ch 9 Timing + Ch 10 Exploratory Analysis, reframed around shipping imperfect work on time)
+Ch 8: Rhythm and Recovery (from current Ch 9 remnants + new material on sustainable pace, burnout, the running parallel)
+CUT ENTIRELY: Ch 8 Data Engineering Fundamentals (this is a different book), Ch 11 Data Storytelling (best 30 percent moves into Ch 9 Win the Room)
+
+PART III: FIRE BOOK (Action)
+Ch 9: Win the Room (from current Ch 13 Insight to Implementation + storytelling material)
+Ch 10: When They Say No (from current Ch 15 Risk, reframed: resistance is the risk that actually kills projects)
+Ch 11: Build Capital (from current Ch 14 Momentum + Ch 16 Scaling, reframed from organizational momentum to personal credibility)
+Ch 12: Know When to Walk Away (from current Ch 17 Leadership, inverted: the chapter the textbook version would never write)
+
+PART IV: WIND BOOK (External Awareness)
+Ch 13: Failure Patterns (consolidates ALL FOUR current Wind chapters: Technology Evolution, Ethics, Agility, Regulatory. One chapter on how data projects and data careers actually die, with ethics and compliance as two of the patterns)
+This is the biggest single cut: 4 chapters, ~8,000 words, becomes 1 chapter, ~2,800 words.
+
+PART V: VOID BOOK (Mastery)
+Ch 14: See the Invisible (from current Ch 25 Intuition Beyond Data)
+Ch 15: Recognizing Dysfunction (new chapter, no current equivalent: reading an organization, knowing when the problem is the company)
+Ch 16: The Long Game (from current Ch 22 Continuous Learning + Ch 26-27 Network and Mentorship, compressed)
+Ch 17: The Path Forward (from current Ch 37 Legacy + Conclusion)
+CUT ENTIRELY: Ch 23 Creativity, Ch 24 Future Vision, Ch 28 Literacy for All, Ch 29 Communities of Practice, Ch 34-36 Applications chapters
+
+APPENDICES (7 become 3)
+A: Essential Templates (keep Stakeholder Interview Guide, cut the rest)
+B: Glossary (cut by half)
+C: Further Reading
+CUT: Tool Matrix, Online Resources, Quick Reference Guides, Code of Honor
+
+=====================================================
+CHANGE 3: KILL THE TEMPLATE
+=====================================================
+Every current chapter runs the same machine: "Why X Matters," "Core Principles of X," "Practical Approaches to X." That pattern appears 30+ times. All of it goes.
+
+New chapter shape:
+1. Musashi quote (one, short)
+2. A story, mine where I have one, that earns the chapter's point
+3. The argument, in prose, in first person
+4. Sword Drills: five practical exercises
+Each Book closes with one Musashi quote. Total Musashi: 22 quotes. Current draft has 60+, and Sun Tzu keeps wandering in. Sun Tzu is cut completely. One tradition.
+
+=====================================================
+CHANGE 4: VOICE
+=====================================================
+FROM: "Organizations must cultivate adaptive capabilities to navigate the evolving data landscape."
+TO: "I once watched a six-month roadmap die in a single reorg. The plan wasn't wrong. The ground moved."
+
+Rules for the rewrite:
+- First person throughout. The reader should finish knowing Randy, not just the framework.
+- Summary first, detail second. Every chapter front-loads its point.
+- Plainspoken. Dry wit allowed. No hype, no corporate vocabulary (leverage, journey, synergy, stakeholder alignment as a noun phrase).
+- No em dashes.
+- Short sentences carry the weight. Long ones earn their length.
+- "Data guy" energy, not "Data Warrior(TM)" branding inside the prose. The title stays; the self-congratulation goes.
+
+=====================================================
+CHANGE 5: THE TEN STORIES, RESTORED
+=====================================================
+These were written for the December version and they go back in:
+1. Preface: Dominican Republic (zipline, banana boat, 270 to 185)
+2. Ch 1: The segmentation model failure (seven beautiful clusters, one fatal question)
+3. Ch 2: The churn analysis that was really a product quality problem
+4. Ch 3: The inherited ColdFusion ETL system and the $150K emergency
+5. Ch 5: The neural network to XGBoost pivot
+6. Ch 6: The 1 AM flow state session
+7. Ch 9: The $50M launch delay recommendation
+8. Ch 10: The inventory project that died of resistance
+9. Ch 10: The call center routing pushback that turned out to be right
+10. Ch 17: The legacy reflection
+
+OPEN STORY SLOTS, need material from Randy (one paragraph each is enough, I will do the rest):
+- Ch 4: A time bad foundations (governance, quality) burned you or saved you
+- Ch 7: A time you shipped at 80 percent and it was the right call
+- Ch 8: Burnout or recovery story (the running discipline parallel can carry this if nothing else surfaces)
+- Ch 11: A time credibility you had banked earlier paid off
+- Ch 12: A job or project you walked away from and why
+- Ch 13: A project failure you watched from close range
+- Ch 15: A time you realized the problem was the organization, not the analysis
+Anything you don't supply, I write around honestly rather than inventing.
+
+=====================================================
+CHANGE 6: WHAT GETS PRESERVED FROM THE CURRENT DRAFT
+=====================================================
+The current draft is not worthless. Worth keeping, in compressed and re-voiced form:
+- The Five Rings mapping itself (it works)
+- The flow state material (Ch 12 is genuinely good)
+- The stakeholder interview guide
+- The insight-to-action gap framing
+- Maybe 30 percent of the ethics and risk content, folded into Ch 10 and Ch 13
+Everything else is rebuilt from scratch on top of the outline.
+
+=====================================================
+NUMBERS
+=====================================================
+Current: 37 chapters, ~53,000 words, 8 parts, 7 appendices
+Target: 17 chapters + preface, ~48,000-52,000 words, 5 parts, 3 appendices
+Net: roughly 60 percent of the current text is cut or replaced. What survives gets re-voiced line by line.
+
+=====================================================
+EXECUTION PLAN
+=====================================================
+Batch 1: Preface + Ground Book (Ch 1-4)
+Batch 2: Water Book (Ch 5-8)
+Batch 3: Fire Book (Ch 9-12)
+Batch 4: Wind + Void (Ch 13-17) + Appendices
+Each batch saved to Drive as its own Google Doc the moment it's done. You review between batches, send corrections and story paragraphs, I integrate. Four batches, four review cycles, one final assembled manuscript doc at the end.
